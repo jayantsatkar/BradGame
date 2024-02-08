@@ -1,0 +1,1 @@
+If you don't have a folder of images for your game, the program will use the "# Images" folder that corresponds to the maximum number of rows.

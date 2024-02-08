@@ -1,0 +1,624 @@
+C:\Users\bjohnson\Desktop\Slot Simulator v5\Slot Simulator\bin\Release\Slot Simulator.exe.config
+C:\Users\bjohnson\Desktop\Slot Simulator v5\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.ResolveComReference.cache
+C:\Users\bjohnson\Desktop\Slot Simulator v5\Slot Simulator\bin\Release\Slot Simulator.exe
+C:\Users\bjohnson\Desktop\Slot Simulator v5\Slot Simulator\bin\Release\Slot Simulator.pdb
+C:\Users\bjohnson\Desktop\Slot Simulator v5\Slot Simulator\bin\Release\RandomOps.dll
+C:\Users\bjohnson\Desktop\Slot Simulator v5\Slot Simulator\bin\Release\RandomOps.pdb
+C:\Users\bjohnson\Desktop\Slot Simulator v5\Slot Simulator\obj\x86\Release\Slot Simulator.csprojResolveAssemblyReference.cache
+C:\Users\bjohnson\Desktop\Slot Simulator v5\Slot Simulator\obj\x86\Release\Slot_Simulator.frmBatch.resources
+C:\Users\bjohnson\Desktop\Slot Simulator v5\Slot Simulator\obj\x86\Release\Slot_Simulator.frmMain.resources
+C:\Users\bjohnson\Desktop\Slot Simulator v5\Slot Simulator\obj\x86\Release\Slot_Simulator.frmProgressives.resources
+C:\Users\bjohnson\Desktop\Slot Simulator v5\Slot Simulator\obj\x86\Release\Slot_Simulator.Simulation.resources
+C:\Users\bjohnson\Desktop\Slot Simulator v5\Slot Simulator\obj\x86\Release\Slot_Simulator.frmStatistics.resources
+C:\Users\bjohnson\Desktop\Slot Simulator v5\Slot Simulator\obj\x86\Release\Slot_Simulator.frmTOD.resources
+C:\Users\bjohnson\Desktop\Slot Simulator v5\Slot Simulator\obj\x86\Release\Slot_Simulator.Properties.Resources.resources
+C:\Users\bjohnson\Desktop\Slot Simulator v5\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.GenerateResource.Cache
+C:\Users\bjohnson\Desktop\Slot Simulator v5\Slot Simulator\obj\x86\Release\Slot Simulator.exe
+C:\Users\bjohnson\Desktop\Slot Simulator v5\Slot Simulator\obj\x86\Release\Slot Simulator.pdb
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.exe.config
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.ResolveComReference.cache
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.exe
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.pdb
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.exe
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.pdb
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\bin\Release\RandomOps.dll
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\bin\Release\RandomOps.pdb
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.csprojResolveAssemblyReference.cache
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmBatch.resources
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmMain.resources
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmProgressives.resources
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.Simulation.resources
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmStatistics.resources
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmTOD.resources
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.Properties.Resources.resources
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.GenerateResource.Cache
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.MediaPlayer.dll
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.WMPDXMLib.dll
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.WMPLauncher.dll
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.exe.manifest
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.application
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.exe.manifest
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.application
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmPickGame.resources
+C:\Users\bjohnson\Desktop\ss\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmChooseVolatility.resources
+G:\Engineering\Math\Bradley\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.exe.config
+G:\Engineering\Math\Bradley\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.MediaPlayer.dll
+G:\Engineering\Math\Bradley\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.WMPDXMLib.dll
+G:\Engineering\Math\Bradley\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.WMPLauncher.dll
+G:\Engineering\Math\Bradley\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.WMPLib.dll
+G:\Engineering\Math\Bradley\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.ResolveComReference.cache
+G:\Engineering\Math\Bradley\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.exe
+G:\Engineering\Math\Bradley\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.pdb
+G:\Engineering\Math\Bradley\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.csprojResolveAssemblyReference.cache
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.exe.config
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.exe.manifest
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.application
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.exe
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.pdb
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\bin\Release\RandomOps.dll
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\bin\Release\RandomOps.pdb
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.csprojResolveAssemblyReference.cache
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.MediaPlayer.dll
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.WMPDXMLib.dll
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.WMPLauncher.dll
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.ResolveComReference.cache
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmBatch.resources
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmChooseVolatility.resources
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmMain.resources
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmPickGame.resources
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmProgressives.resources
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.Simulation.resources
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmStatistics.resources
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmTOD.resources
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.Properties.Resources.resources
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.GenerateResource.Cache
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.exe.manifest
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.application
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.exe
+C:\Users\zemrich\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.pdb
+G:\Engineering\Math\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.exe.config
+G:\Engineering\Math\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.MediaPlayer.dll
+G:\Engineering\Math\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.WMPDXMLib.dll
+G:\Engineering\Math\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.WMPLauncher.dll
+G:\Engineering\Math\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.WMPLib.dll
+G:\Engineering\Math\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.ResolveComReference.cache
+G:\Engineering\Math\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.exe
+G:\Engineering\Math\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.pdb
+G:\Engineering\Math\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.csprojResolveAssemblyReference.cache
+G:\Engineering\Math\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmBatch.resources
+G:\Engineering\Math\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmChooseVolatility.resources
+G:\Engineering\Math\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmMain.resources
+G:\Engineering\Math\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmPickGame.resources
+G:\Engineering\Math\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmProgressives.resources
+G:\Engineering\Math\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.Simulation.resources
+G:\Engineering\Math\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmStatistics.resources
+G:\Engineering\Math\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmTOD.resources
+G:\Engineering\Math\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.Properties.Resources.resources
+G:\Engineering\Math\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.GenerateResource.Cache
+M:\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.exe.config
+M:\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.MediaPlayer.dll
+M:\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.WMPDXMLib.dll
+M:\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.WMPLauncher.dll
+M:\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.WMPLib.dll
+M:\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.ResolveComReference.cache
+M:\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.exe
+M:\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.csprojResolveAssemblyReference.cache
+M:\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmBatch.resources
+M:\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmChooseVolatility.resources
+M:\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmMain.resources
+M:\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmPickGame.resources
+M:\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmProgressives.resources
+M:\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.Simulation.resources
+M:\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmStatistics.resources
+M:\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmTOD.resources
+M:\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.Properties.Resources.resources
+M:\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.GenerateResource.Cache
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\bin\Release\Slot Simulator.exe.config
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\obj\x86\Release\Interop.MediaPlayer.dll
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\obj\x86\Release\Interop.WMPDXMLib.dll
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\obj\x86\Release\Interop.WMPLauncher.dll
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.ResolveComReference.cache
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\obj\x86\Release\Slot Simulator.exe
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\bin\Release\Slot Simulator.exe.manifest
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\bin\Release\Slot Simulator.application
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\bin\Release\Slot Simulator.exe
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\bin\Release\Slot Simulator.pdb
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\bin\Release\RandomOps.dll
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\bin\Release\RandomOps.pdb
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\obj\x86\Release\Slot Simulator.csprojResolveAssemblyReference.cache
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\obj\x86\Release\Slot_Simulator.frmBatch.resources
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\obj\x86\Release\Slot_Simulator.frmChooseVolatility.resources
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\obj\x86\Release\Slot_Simulator.frmMain.resources
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\obj\x86\Release\Slot_Simulator.frmPickGame.resources
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\obj\x86\Release\Slot_Simulator.frmProgressives.resources
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\obj\x86\Release\Slot_Simulator.Simulation.resources
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\obj\x86\Release\Slot_Simulator.frmStatistics.resources
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\obj\x86\Release\Slot_Simulator.frmTOD.resources
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\obj\x86\Release\Slot_Simulator.Properties.Resources.resources
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.GenerateResource.Cache
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\obj\x86\Release\Slot Simulator.exe.manifest
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\obj\x86\Release\Slot Simulator.application
+C:\Users\zemrich\Desktop\Slot Simulator 2\Slot Simulator\obj\x86\Release\Slot Simulator.pdb
+M:\Simulation Repository\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.pdb
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.exe.config
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.MediaPlayer.dll
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.WMPDXMLib.dll
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.WMPLauncher.dll
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.ResolveComReference.cache
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.exe
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.exe.manifest
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.application
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.exe
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.pdb
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\bin\Release\RandomOps.dll
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\bin\Release\RandomOps.pdb
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.csprojResolveAssemblyReference.cache
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmBatch.resources
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmChooseVolatility.resources
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmMain.resources
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmPickGame.resources
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmProgressives.resources
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.Simulation.resources
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmStatistics.resources
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmTOD.resources
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.Properties.Resources.resources
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.GenerateResource.Cache
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.exe.manifest
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.application
+C:\Users\zemrich\Desktop\Safari Diamonds - Updated (2)\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.pdb
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.exe.config
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.MediaPlayer.dll
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.WMPDXMLib.dll
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.WMPLauncher.dll
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.ResolveComReference.cache
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.exe
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.csprojResolveAssemblyReference.cache
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmBatch.resources
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmChooseVolatility.resources
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmMain.resources
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmPickGame.resources
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmProgressives.resources
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.Simulation.resources
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmStatistics.resources
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmTOD.resources
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.Properties.Resources.resources
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.GenerateResource.Cache
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.exe.manifest
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.application
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.exe
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.pdb
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\bin\Release\RandomOps.dll
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\bin\Release\RandomOps.pdb
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.exe.manifest
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.application
+C:\Users\NMacGregor\Desktop\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.pdb
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.exe.config
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.MediaPlayer.dll
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.WMPDXMLib.dll
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.WMPLauncher.dll
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.ResolveComReference.cache
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.exe
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.exe.manifest
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.application
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.exe
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\bin\Release\Slot Simulator.pdb
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\bin\Release\RandomOps.dll
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\bin\Release\RandomOps.pdb
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.csprojResolveAssemblyReference.cache
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmBatch.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmChooseVolatility.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmMain.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmPickGame.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmProgressives.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.Simulation.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmStatistics.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.frmTOD.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\obj\x86\Release\Slot_Simulator.Properties.Resources.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.GenerateResource.Cache
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.exe.manifest
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.application
+C:\Users\cdavis\Desktop\My Math\Slot Simulator\Slot Simulator\obj\x86\Release\Slot Simulator.pdb
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\bin\Release\Slot Simulator.exe.config
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\obj\x86\Release\Interop.MediaPlayer.dll
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\obj\x86\Release\Interop.WMPDXMLib.dll
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\obj\x86\Release\Interop.WMPLauncher.dll
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.ResolveComReference.cache
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\obj\x86\Release\Slot Simulator.exe
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\obj\x86\Release\Slot Simulator.pdb
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\bin\Release\Slot Simulator.exe.manifest
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\bin\Release\Slot Simulator.application
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\bin\Release\Slot Simulator.exe
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\bin\Release\Slot Simulator.pdb
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\bin\Release\RandomOps.dll
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\bin\Release\RandomOps.pdb
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\obj\x86\Release\Slot Simulator.csprojResolveAssemblyReference.cache
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\obj\x86\Release\Slot_Simulator.frmBatch.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\obj\x86\Release\Slot_Simulator.frmChooseVolatility.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\obj\x86\Release\Slot_Simulator.frmMain.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\obj\x86\Release\Slot_Simulator.frmPickGame.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\obj\x86\Release\Slot_Simulator.frmProgressives.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\obj\x86\Release\Slot_Simulator.Simulation.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\obj\x86\Release\Slot_Simulator.frmStatistics.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\obj\x86\Release\Slot_Simulator.frmTOD.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\obj\x86\Release\Slot_Simulator.Properties.Resources.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.GenerateResource.Cache
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\obj\x86\Release\Slot Simulator.exe.manifest
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (5x)\Slot Simulator\obj\x86\Release\Slot Simulator.application
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\bin\Release\Slot Simulator.exe.config
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\obj\x86\Release\Interop.MediaPlayer.dll
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\obj\x86\Release\Interop.WMPDXMLib.dll
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\obj\x86\Release\Interop.WMPLauncher.dll
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.ResolveComReference.cache
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\obj\x86\Release\Slot Simulator.exe
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\obj\x86\Release\Slot Simulator.pdb
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\obj\x86\Release\Slot Simulator.csprojResolveAssemblyReference.cache
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\obj\x86\Release\Slot_Simulator.frmBatch.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\obj\x86\Release\Slot_Simulator.frmChooseVolatility.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\obj\x86\Release\Slot_Simulator.frmMain.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\obj\x86\Release\Slot_Simulator.frmPickGame.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\obj\x86\Release\Slot_Simulator.frmProgressives.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\obj\x86\Release\Slot_Simulator.Simulation.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\obj\x86\Release\Slot_Simulator.frmStatistics.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\obj\x86\Release\Slot_Simulator.frmTOD.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\obj\x86\Release\Slot_Simulator.Properties.Resources.resources
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.GenerateResource.Cache
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\bin\Release\Slot Simulator.exe.manifest
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\bin\Release\Slot Simulator.application
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\bin\Release\Slot Simulator.exe
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\bin\Release\Slot Simulator.pdb
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\bin\Release\RandomOps.dll
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\bin\Release\RandomOps.pdb
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\obj\x86\Release\Slot Simulator.exe.manifest
+C:\Users\cdavis\Desktop\My Math\Slot Simulator (Adjusting Reel Heights)\Slot Simulator\obj\x86\Release\Slot Simulator.application
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\bin\Release\Slot Simulator.exe.config
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\obj\x86\Release\Interop.MediaPlayer.dll
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\obj\x86\Release\Interop.WMPDXMLib.dll
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\obj\x86\Release\Interop.WMPLauncher.dll
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.ResolveComReference.cache
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\obj\x86\Release\Slot Simulator.exe
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\obj\x86\Release\Slot Simulator.pdb
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\bin\Release\Slot Simulator.exe.manifest
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\bin\Release\Slot Simulator.application
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\bin\Release\Slot Simulator.exe
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\bin\Release\Slot Simulator.pdb
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\bin\Release\RandomOps.dll
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\bin\Release\RandomOps.pdb
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\obj\x86\Release\Slot Simulator.csprojResolveAssemblyReference.cache
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\obj\x86\Release\Slot_Simulator.frmBatch.resources
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\obj\x86\Release\Slot_Simulator.frmChooseVolatility.resources
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\obj\x86\Release\Slot_Simulator.frmMain.resources
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\obj\x86\Release\Slot_Simulator.frmPickGame.resources
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\obj\x86\Release\Slot_Simulator.frmProgressives.resources
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\obj\x86\Release\Slot_Simulator.Simulation.resources
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\obj\x86\Release\Slot_Simulator.frmStatistics.resources
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\obj\x86\Release\Slot_Simulator.frmTOD.resources
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\obj\x86\Release\Slot_Simulator.Properties.Resources.resources
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.GenerateResource.Cache
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\obj\x86\Release\Slot Simulator.exe.manifest
+C:\Users\cdavis\Desktop\My Math\FireWolfII\Slot Simulator\obj\x86\Release\Slot Simulator.application
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\bin\Release\Slot Simulator.exe.config
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Interop.MediaPlayer.dll
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Interop.WMPDXMLib.dll
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Interop.WMPLauncher.dll
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.ResolveComReference.cache
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot Simulator.exe
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot Simulator.pdb
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\bin\Release\Slot Simulator.exe.manifest
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\bin\Release\Slot Simulator.application
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\bin\Release\Slot Simulator.exe
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\bin\Release\Slot Simulator.pdb
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\bin\Release\RandomOps.dll
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\bin\Release\RandomOps.pdb
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot Simulator.csprojResolveAssemblyReference.cache
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot_Simulator.frmBatch.resources
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot_Simulator.frmChooseVolatility.resources
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot_Simulator.frmMain.resources
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot_Simulator.frmPickGame.resources
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot_Simulator.frmProgressives.resources
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot_Simulator.Simulation.resources
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot_Simulator.frmStatistics.resources
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot_Simulator.frmTOD.resources
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot_Simulator.Properties.Resources.resources
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.GenerateResource.Cache
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot Simulator.exe.manifest
+C:\Users\cdavis\Desktop\My Math\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot Simulator.application
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\bin\Release\Slot Simulator.exe.config
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Interop.MediaPlayer.dll
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Interop.WMPDXMLib.dll
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Interop.WMPLauncher.dll
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.ResolveComReference.cache
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot Simulator.exe
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot Simulator.pdb
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\bin\Release\Slot Simulator.exe.manifest
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\bin\Release\Slot Simulator.application
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\bin\Release\Slot Simulator.exe
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\bin\Release\Slot Simulator.pdb
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\bin\Release\RandomOps.dll
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\bin\Release\RandomOps.pdb
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot Simulator.csprojResolveAssemblyReference.cache
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot_Simulator.frmBatch.resources
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot_Simulator.frmChooseVolatility.resources
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot_Simulator.frmMain.resources
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot_Simulator.frmPickGame.resources
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot_Simulator.frmProgressives.resources
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot_Simulator.Simulation.resources
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot_Simulator.frmStatistics.resources
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot_Simulator.frmTOD.resources
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot_Simulator.Properties.Resources.resources
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.GenerateResource.Cache
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot Simulator.exe.manifest
+C:\Users\cdavis\Desktop\My Math\FireWolf2\FireWolfII With No IN\Slot Simulator\obj\x86\Release\Slot Simulator.application
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\bin\Release\Slot Simulator.exe.config
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\obj\x86\Release\Interop.MediaPlayer.dll
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\obj\x86\Release\Interop.WMPDXMLib.dll
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\obj\x86\Release\Interop.WMPLauncher.dll
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.ResolveComReference.cache
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\obj\x86\Release\Slot Simulator.exe
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\obj\x86\Release\Slot Simulator.csprojResolveAssemblyReference.cache
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\obj\x86\Release\Slot_Simulator.frmBatch.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\obj\x86\Release\Slot_Simulator.frmChooseVolatility.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\obj\x86\Release\Slot_Simulator.frmMain.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\obj\x86\Release\Slot_Simulator.frmPickGame.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\obj\x86\Release\Slot_Simulator.frmProgressives.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\obj\x86\Release\Slot_Simulator.Simulation.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\obj\x86\Release\Slot_Simulator.frmStatistics.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\obj\x86\Release\Slot_Simulator.frmTOD.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\obj\x86\Release\Slot_Simulator.Properties.Resources.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.GenerateResource.Cache
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\bin\Release\Slot Simulator.exe.manifest
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\bin\Release\Slot Simulator.application
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\bin\Release\Slot Simulator.exe
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\bin\Release\Slot Simulator.pdb
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\bin\Release\RandomOps.dll
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\bin\Release\RandomOps.pdb
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\obj\x86\Release\Slot Simulator.exe.manifest
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\obj\x86\Release\Slot Simulator.application
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Slot Simulator\obj\x86\Release\Slot Simulator.pdb
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\bin\Release\Slot Simulator.exe.config
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\obj\x86\Release\Interop.MediaPlayer.dll
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\obj\x86\Release\Interop.WMPDXMLib.dll
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\obj\x86\Release\Interop.WMPLauncher.dll
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.ResolveComReference.cache
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\obj\x86\Release\Slot Simulator.exe
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\obj\x86\Release\Slot Simulator.pdb
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\bin\Release\Slot Simulator.exe.manifest
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\bin\Release\Slot Simulator.application
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\bin\Release\Slot Simulator.exe
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\bin\Release\Slot Simulator.pdb
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\bin\Release\RandomOps.dll
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\bin\Release\RandomOps.pdb
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\obj\x86\Release\Slot Simulator.csprojResolveAssemblyReference.cache
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\obj\x86\Release\Slot_Simulator.frmBatch.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\obj\x86\Release\Slot_Simulator.frmChooseVolatility.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\obj\x86\Release\Slot_Simulator.frmMain.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\obj\x86\Release\Slot_Simulator.frmPickGame.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\obj\x86\Release\Slot_Simulator.frmProgressives.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\obj\x86\Release\Slot_Simulator.Simulation.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\obj\x86\Release\Slot_Simulator.frmStatistics.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\obj\x86\Release\Slot_Simulator.frmTOD.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\obj\x86\Release\Slot_Simulator.Properties.Resources.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.GenerateResource.Cache
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\obj\x86\Release\Slot Simulator.exe.manifest
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\New folder\Slot Simulator\obj\x86\Release\Slot Simulator.application
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\bin\Release\Slot Simulator.exe.config
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\obj\x86\Release\Interop.MediaPlayer.dll
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\obj\x86\Release\Interop.WMPDXMLib.dll
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\obj\x86\Release\Interop.WMPLauncher.dll
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.ResolveComReference.cache
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\obj\x86\Release\Slot Simulator.exe
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\obj\x86\Release\Slot Simulator.pdb
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\obj\x86\Release\Slot Simulator.csprojResolveAssemblyReference.cache
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\obj\x86\Release\Slot_Simulator.frmBatch.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\obj\x86\Release\Slot_Simulator.frmChooseVolatility.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\obj\x86\Release\Slot_Simulator.frmMain.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\obj\x86\Release\Slot_Simulator.frmPickGame.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\obj\x86\Release\Slot_Simulator.frmProgressives.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\obj\x86\Release\Slot_Simulator.Simulation.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\obj\x86\Release\Slot_Simulator.frmStatistics.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\obj\x86\Release\Slot_Simulator.frmTOD.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\obj\x86\Release\Slot_Simulator.Properties.Resources.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.GenerateResource.Cache
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\bin\Release\Slot Simulator.exe.manifest
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\bin\Release\Slot Simulator.application
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\bin\Release\Slot Simulator.exe
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\bin\Release\Slot Simulator.pdb
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\bin\Release\RandomOps.dll
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\bin\Release\RandomOps.pdb
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\obj\x86\Release\Slot Simulator.exe.manifest
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games\Slot Simulator\obj\x86\Release\Slot Simulator.application
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\bin\Release\Slot Simulator.exe.config
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\obj\x86\Release\Interop.MediaPlayer.dll
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\obj\x86\Release\Interop.WMPDXMLib.dll
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\obj\x86\Release\Interop.WMPLauncher.dll
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.ResolveComReference.cache
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\obj\x86\Release\Slot Simulator.exe
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\obj\x86\Release\Slot Simulator.pdb
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\bin\Release\Slot Simulator.exe.manifest
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\bin\Release\Slot Simulator.application
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\bin\Release\Slot Simulator.exe
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\bin\Release\Slot Simulator.pdb
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\bin\Release\RandomOps.dll
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\bin\Release\RandomOps.pdb
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\obj\x86\Release\Slot Simulator.csprojResolveAssemblyReference.cache
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\obj\x86\Release\Slot_Simulator.frmBatch.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\obj\x86\Release\Slot_Simulator.frmChooseVolatility.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\obj\x86\Release\Slot_Simulator.frmMain.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\obj\x86\Release\Slot_Simulator.frmPickGame.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\obj\x86\Release\Slot_Simulator.frmProgressives.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\obj\x86\Release\Slot_Simulator.Simulation.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\obj\x86\Release\Slot_Simulator.frmStatistics.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\obj\x86\Release\Slot_Simulator.frmTOD.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\obj\x86\Release\Slot_Simulator.Properties.Resources.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.GenerateResource.Cache
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\obj\x86\Release\Slot Simulator.exe.manifest
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Mods to Run Specific Features\Free Games - Copy (2)\Slot Simulator\obj\x86\Release\Slot Simulator.application
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\bin\Release\Slot Simulator.exe.config
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\obj\x86\Release\Interop.MediaPlayer.dll
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\obj\x86\Release\Interop.WMPDXMLib.dll
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\obj\x86\Release\Interop.WMPLauncher.dll
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.ResolveComReference.cache
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\obj\x86\Release\Slot Simulator.exe
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\obj\x86\Release\Slot Simulator.pdb
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\obj\x86\Release\Slot Simulator.csprojResolveAssemblyReference.cache
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmBatch.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmChooseVolatility.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmMain.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmPickGame.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmProgressives.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\obj\x86\Release\Slot_Simulator.Simulation.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmStatistics.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmTOD.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\obj\x86\Release\Slot_Simulator.Properties.Resources.resources
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.GenerateResource.Cache
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\bin\Release\Slot Simulator.exe.manifest
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\bin\Release\Slot Simulator.application
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\bin\Release\Slot Simulator.exe
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\bin\Release\Slot Simulator.pdb
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\bin\Release\RandomOps.dll
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\bin\Release\RandomOps.pdb
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\obj\x86\Release\Slot Simulator.exe.manifest
+C:\Users\cdavis\Math\Training\FireWolf2\FireWolfII\Full Game\Slot Simulator\obj\x86\Release\Slot Simulator.application
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\bin\Release\Slot Simulator.exe.config
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\obj\x86\Release\Interop.MediaPlayer.dll
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\obj\x86\Release\Interop.WMPDXMLib.dll
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\obj\x86\Release\Interop.WMPLauncher.dll
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.ResolveComReference.cache
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.exe
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.pdb
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\bin\Release\Slot Simulator.exe.manifest
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\bin\Release\Slot Simulator.application
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\bin\Release\Slot Simulator.exe
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\bin\Release\Slot Simulator.pdb
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\bin\Release\RandomOps.dll
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\bin\Release\RandomOps.pdb
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.csprojResolveAssemblyReference.cache
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmBatch.resources
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmChooseVolatility.resources
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmMain.resources
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmPickGame.resources
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmProgressives.resources
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.Simulation.resources
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmStatistics.resources
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmTOD.resources
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.Properties.Resources.resources
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.GenerateResource.Cache
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.exe.manifest
+C:\Users\cdavis\Math\Training\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.application
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\bin\Release\Slot Simulator.exe.config
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\bin\Release\Slot Simulator.exe.manifest
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\bin\Release\Slot Simulator.application
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\bin\Release\Slot Simulator.exe
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\bin\Release\Slot Simulator.pdb
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\bin\Release\Microsoft.DirectX.Direct3D.dll
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\bin\Release\Microsoft.DirectX.Direct3DX.dll
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\bin\Release\RandomOps.dll
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\bin\Release\Microsoft.DirectX.dll
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\bin\Release\RandomOps.pdb
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\bin\Release\Microsoft.DirectX.Direct3D.xml
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\bin\Release\Microsoft.DirectX.Direct3DX.xml
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\bin\Release\Microsoft.DirectX.xml
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.csprojAssemblyReference.cache
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\obj\x86\Release\Interop.MediaPlayer.dll
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\obj\x86\Release\Interop.WMPDXMLib.dll
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\obj\x86\Release\Interop.WMPLauncher.dll
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.ResolveComReference.cache
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmBatch.resources
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmChooseVolatility.resources
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmMain.resources
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmPickGame.resources
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmProgressives.resources
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.Simulation.resources
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmStatistics.resources
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmTOD.resources
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.Properties.Resources.resources
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.GenerateResource.cache
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.CoreCompileInputs.cache
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.exe.manifest
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.application
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.CopyComplete
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.exe
+C:\Users\BDS\Desktop\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.pdb
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\bin\Release\Slot Simulator.exe.config
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\bin\Release\Slot Simulator.exe.manifest
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\bin\Release\Slot Simulator.application
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\bin\Release\Slot Simulator.exe
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\bin\Release\Slot Simulator.pdb
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\bin\Release\RandomOps.dll
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\bin\Release\Microsoft.DirectX.dll
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\bin\Release\RandomOps.pdb
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\bin\Release\Microsoft.DirectX.Direct3D.xml
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\bin\Release\Microsoft.DirectX.Direct3DX.xml
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\bin\Release\Microsoft.DirectX.xml
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.csprojAssemblyReference.cache
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\obj\x86\Release\Interop.MediaPlayer.dll
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\obj\x86\Release\Interop.WMPDXMLib.dll
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\obj\x86\Release\Interop.WMPLauncher.dll
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.ResolveComReference.cache
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmBatch.resources
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmChooseVolatility.resources
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmMain.resources
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmPickGame.resources
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmProgressives.resources
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.Simulation.resources
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmStatistics.resources
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmTOD.resources
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.Properties.Resources.resources
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.GenerateResource.cache
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.CoreCompileInputs.cache
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.exe.manifest
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.application
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.CopyComplete
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.exe
+C:\Users\ezboese\Documents\GAMES@Aristocrat\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.pdb
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.csprojAssemblyReference.cache
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\obj\x86\Release\Interop.MediaPlayer.dll
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\obj\x86\Release\Interop.WMPDXMLib.dll
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\obj\x86\Release\Interop.WMPLauncher.dll
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\obj\x86\Release\Interop.WMPLib.dll
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.ResolveComReference.cache
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.exe
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.pdb
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\bin\Release\Slot Simulator.exe.config
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\bin\Release\Slot Simulator.exe.manifest
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\bin\Release\Slot Simulator.application
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\bin\Release\Slot Simulator.exe
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\bin\Release\Slot Simulator.pdb
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\bin\Release\RandomOps.dll
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\bin\Release\Microsoft.DirectX.dll
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\bin\Release\RandomOps.pdb
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\bin\Release\Microsoft.DirectX.Direct3D.xml
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\bin\Release\Microsoft.DirectX.Direct3DX.xml
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\bin\Release\Microsoft.DirectX.xml
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmBatch.resources
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmChooseVolatility.resources
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmMain.resources
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmPickGame.resources
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmProgressives.resources
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.Simulation.resources
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmStatistics.resources
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.frmTOD.resources
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\obj\x86\Release\Slot_Simulator.Properties.Resources.resources
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.GenerateResource.cache
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.CoreCompileInputs.cache
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.exe.manifest
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.application
+D:\Jayant Project\New\Brad's Game\Brad's Game\Slot Simulator\obj\x86\Release\Slot Simulator.csproj.CopyComplete
